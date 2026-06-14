@@ -28,7 +28,7 @@ public class average {
 }
 
 
-/*
+/* 
 DECLARE cn: INTEGER
 DECLARE ml: INTEGER
 DECLARE cd: INTEGER
